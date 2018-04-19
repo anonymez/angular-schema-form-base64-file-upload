@@ -3,7 +3,7 @@
   "license": "MIT",
   "author": "Textalk",
   "main": [
-    "dist/angular-schema-form-base64-file-upload.min.js"
+    "dist/angular-schema-form-base64-file-upload.js"
   ],
   "keywords": [
     "angular-schema-form",
